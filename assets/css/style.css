@@ -1,0 +1,69 @@
+header, footer {
+    background-color: #eeeeee; 
+    padding: 0 1rem; 
+    min-height: 3.75rem;
+}
+
+header {
+    border-right: #dbdbdb 1px solid;
+    border-bottom: #dbdbdb 1px solid;
+}
+
+header img, .list-group img, header a .my-photo {
+    height: 3rem;
+    clip-path: circle();
+}
+
+main {
+    background-color: #e5ddd5;
+    min-height: calc(100vh - 7.5rem);
+}
+
+.contact-name {
+    font-size: 1rem;
+    color: #4d4d4d;
+}
+
+.time-ago {
+    color: #9b9b9b;
+    font-size: 0.78rem;
+}
+
+.time-green {
+    color: #09d261;
+}
+
+i {
+    cursor: pointer;
+}
+
+#panel-left {
+    border-right: #dbdbdb 1px solid;
+    color: #4d4d4d;
+}
+
+#search {
+    height: 3rem;
+    background-color: #f8f8f8;
+}
+
+.list-group-item {
+    border-right: none;
+    border-left: none;
+    border-color: #f8f8f8;
+}
+
+.list-group-item:first-child {
+    border-top-left-radius: 0;
+    border-top-right-radius: 0;
+}
+
+.message {
+    font-size: 0.78rem;
+    color: #4d4d4d;
+}
+
+.badge-success {
+    background-color: #09d261;
+    clip-path: circle();
+}
