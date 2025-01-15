@@ -2,16 +2,18 @@
   💻<br>WhatsApp Web
 </h1>
 
-![Design preview for the Whatsapp-clone](./assets/images/my-resolution.png)
+<div align="center">
+  <img src="./assets/images/project-view.png" alt="Imagem do projeto WhatsApp Web">
+</div>
 
-<h4 align="center"><a href="https://lucasgabriell97.github.io/whatsapp-web/">Clique para visitar o projeto</a></h4>
+<h4 align="center"><a href="https://whatsapp-web-mu.vercel.app/">Clique para visitar o projeto</a></h4>
 
 ## 📚 Sobre o projeto
 
-Desafio proposto pelo curso de Bootstrap 4 da Hcode Treinamentos.  
-Meu primeiro desafio feito usando Bootstrap, o projeto é um clone do WhatsApp Web.
+Desafio proposto pelo curso de <strong>Bootstrap 4 da Hcode Treinamentos.</strong>  
+Meu primeiro projeto feito usando Bootstrap, trata-se de um clone do WhatsApp Web.
 
-Observação: Nesse projeto fiz uso do Bootstrap 5!
+💡 <b>Observação:</b> Nesse projeto fiz uso do Bootstrap 5!
 
 ## 💼 Tecnologias utilizadas
 
