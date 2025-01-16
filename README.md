@@ -11,12 +11,12 @@
 ## 📚 Sobre o projeto
 
 Desafio proposto pelo curso de <strong>Bootstrap 4 da Hcode Treinamentos.</strong>  
-Meu primeiro projeto feito usando Bootstrap, trata-se de um clone do WhatsApp Web.
+Meu primeiro projeto usando Bootstrap, trata-se de um clone do WhatsApp Web.
 
 💡 <b>Observação:</b> Nesse projeto fiz uso do Bootstrap 5!
 
 ## 💼 Tecnologias utilizadas
 
-- HTML;
-- CSS;
-- Bootstrap;
+- HTML
+- CSS
+- Bootstrap
